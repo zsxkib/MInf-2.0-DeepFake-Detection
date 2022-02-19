@@ -1,6 +1,16 @@
 # CUSTOM
 *.png
+*.DS_Store
+*.jpeg
+*.jpg
 *.pkl
+*.h5
+*.mp4
+Comparing-the-Performance-of-Deepfake-Detection-Methods-on-Benchmark-Datasets-master/
+DariusAf_MesoNet/
+Kiteco_Deepfake_Detection/
+MInf-DeepfakeDetection-FrameDifferencing/
+MLP-DeepfakeDetection-VariationalAutoencoder/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
