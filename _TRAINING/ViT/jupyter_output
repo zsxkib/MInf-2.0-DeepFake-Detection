@@ -1,0 +1,190 @@
+Epoch 1/100
+694/694 [==============================] - ETA: 0s - loss: 0.2900 - auc: 0.7385
+Epoch 1: val_auc improved from -inf to 0.75677, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 763s 1s/step - loss: 0.2900 - auc: 0.7385 - val_loss: 0.2484 - val_auc: 0.7568
+Epoch 2/100
+694/694 [==============================] - ETA: 0s - loss: 0.2847 - auc: 0.7527
+Epoch 2: val_auc improved from 0.75677 to 0.76522, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 513s 739ms/step - loss: 0.2847 - auc: 0.7527 - val_loss: 0.2461 - val_auc: 0.7652
+Epoch 3/100
+694/694 [==============================] - ETA: 0s - loss: 0.2817 - auc: 0.7601
+Epoch 3: val_auc improved from 0.76522 to 0.77270, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 514s 740ms/step - loss: 0.2817 - auc: 0.7601 - val_loss: 0.2438 - val_auc: 0.7727
+Epoch 4/100
+694/694 [==============================] - ETA: 0s - loss: 0.2789 - auc: 0.7676
+Epoch 4: val_auc improved from 0.77270 to 0.77490, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 514s 741ms/step - loss: 0.2789 - auc: 0.7676 - val_loss: 0.2431 - val_auc: 0.7749
+Epoch 5/100
+694/694 [==============================] - ETA: 0s - loss: 0.2756 - auc: 0.7773
+Epoch 5: val_auc improved from 0.77490 to 0.78306, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 514s 741ms/step - loss: 0.2756 - auc: 0.7773 - val_loss: 0.2401 - val_auc: 0.7831
+Epoch 6/100
+694/694 [==============================] - ETA: 0s - loss: 0.2733 - auc: 0.7823
+Epoch 6: val_auc improved from 0.78306 to 0.78598, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 512s 738ms/step - loss: 0.2733 - auc: 0.7823 - val_loss: 0.2393 - val_auc: 0.7860
+Epoch 7/100
+694/694 [==============================] - ETA: 0s - loss: 0.2714 - auc: 0.7854
+Epoch 7: val_auc improved from 0.78598 to 0.78940, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 513s 739ms/step - loss: 0.2714 - auc: 0.7854 - val_loss: 0.2381 - val_auc: 0.7894
+Epoch 8/100
+694/694 [==============================] - ETA: 0s - loss: 0.2689 - auc: 0.7912
+Epoch 8: val_auc improved from 0.78940 to 0.79184, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 511s 737ms/step - loss: 0.2689 - auc: 0.7912 - val_loss: 0.2370 - val_auc: 0.7918
+Epoch 9/100
+694/694 [==============================] - ETA: 0s - loss: 0.2679 - auc: 0.7952
+Epoch 9: val_auc improved from 0.79184 to 0.79269, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 511s 737ms/step - loss: 0.2679 - auc: 0.7952 - val_loss: 0.2366 - val_auc: 0.7927
+Epoch 10/100
+694/694 [==============================] - ETA: 0s - loss: 0.2663 - auc: 0.7988
+Epoch 10: val_auc improved from 0.79269 to 0.79493, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 512s 738ms/step - loss: 0.2663 - auc: 0.7988 - val_loss: 0.2357 - val_auc: 0.7949
+Epoch 11/100
+694/694 [==============================] - ETA: 0s - loss: 0.2633 - auc: 0.8043
+Epoch 11: val_auc improved from 0.79493 to 0.79919, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 515s 742ms/step - loss: 0.2633 - auc: 0.8043 - val_loss: 0.2341 - val_auc: 0.7992
+Epoch 12/100
+694/694 [==============================] - ETA: 0s - loss: 0.2627 - auc: 0.8055
+Epoch 12: val_auc improved from 0.79919 to 0.80202, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 494s 712ms/step - loss: 0.2627 - auc: 0.8055 - val_loss: 0.2325 - val_auc: 0.8020
+Epoch 13/100
+694/694 [==============================] - ETA: 0s - loss: 0.2624 - auc: 0.8065
+Epoch 13: val_auc improved from 0.80202 to 0.80393, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 493s 711ms/step - loss: 0.2624 - auc: 0.8065 - val_loss: 0.2315 - val_auc: 0.8039
+Epoch 14/100
+694/694 [==============================] - ETA: 0s - loss: 0.2606 - auc: 0.8093
+Epoch 14: val_auc improved from 0.80393 to 0.80523, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 492s 709ms/step - loss: 0.2606 - auc: 0.8093 - val_loss: 0.2310 - val_auc: 0.8052
+Epoch 15/100
+694/694 [==============================] - ETA: 0s - loss: 0.2591 - auc: 0.8138
+Epoch 15: val_auc improved from 0.80523 to 0.80726, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 494s 711ms/step - loss: 0.2591 - auc: 0.8138 - val_loss: 0.2310 - val_auc: 0.8073
+Epoch 16/100
+694/694 [==============================] - ETA: 0s - loss: 0.2576 - auc: 0.8176
+Epoch 16: val_auc improved from 0.80726 to 0.81018, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 493s 711ms/step - loss: 0.2576 - auc: 0.8176 - val_loss: 0.2287 - val_auc: 0.8102
+Epoch 17/100
+694/694 [==============================] - ETA: 0s - loss: 0.2578 - auc: 0.8161
+Epoch 17: val_auc improved from 0.81018 to 0.81071, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 492s 709ms/step - loss: 0.2578 - auc: 0.8161 - val_loss: 0.2295 - val_auc: 0.8107
+Epoch 18/100
+694/694 [==============================] - ETA: 0s - loss: 0.2567 - auc: 0.8193
+Epoch 18: val_auc improved from 0.81071 to 0.81127, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 493s 710ms/step - loss: 0.2567 - auc: 0.8193 - val_loss: 0.2286 - val_auc: 0.8113
+Epoch 19/100
+694/694 [==============================] - ETA: 0s - loss: 0.2551 - auc: 0.8216
+Epoch 19: val_auc did not improve from 0.81127
+694/694 [==============================] - 489s 704ms/step - loss: 0.2551 - auc: 0.8216 - val_loss: 0.2287 - val_auc: 0.8112
+Epoch 20/100
+694/694 [==============================] - ETA: 0s - loss: 0.2548 - auc: 0.8209
+Epoch 20: val_auc improved from 0.81127 to 0.81221, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 492s 708ms/step - loss: 0.2548 - auc: 0.8209 - val_loss: 0.2279 - val_auc: 0.8122
+Epoch 21/100
+694/694 [==============================] - ETA: 0s - loss: 0.2538 - auc: 0.8244
+Epoch 21: val_auc improved from 0.81221 to 0.81382, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 491s 707ms/step - loss: 0.2538 - auc: 0.8244 - val_loss: 0.2275 - val_auc: 0.8138
+Epoch 22/100
+694/694 [==============================] - ETA: 0s - loss: 0.2523 - auc: 0.8254
+Epoch 22: val_auc improved from 0.81382 to 0.81598, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 484s 697ms/step - loss: 0.2523 - auc: 0.8254 - val_loss: 0.2256 - val_auc: 0.8160
+Epoch 23/100
+694/694 [==============================] - ETA: 0s - loss: 0.2509 - auc: 0.8299
+Epoch 23: val_auc did not improve from 0.81598
+694/694 [==============================] - 470s 677ms/step - loss: 0.2509 - auc: 0.8299 - val_loss: 0.2260 - val_auc: 0.8156
+Epoch 24/100
+694/694 [==============================] - ETA: 0s - loss: 0.2514 - auc: 0.8275
+Epoch 24: val_auc improved from 0.81598 to 0.81727, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 473s 681ms/step - loss: 0.2514 - auc: 0.8275 - val_loss: 0.2253 - val_auc: 0.8173
+Epoch 25/100
+694/694 [==============================] - ETA: 0s - loss: 0.2505 - auc: 0.8297
+Epoch 25: val_auc improved from 0.81727 to 0.81744, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 472s 681ms/step - loss: 0.2505 - auc: 0.8297 - val_loss: 0.2253 - val_auc: 0.8174
+Epoch 26/100
+694/694 [==============================] - ETA: 0s - loss: 0.2500 - auc: 0.8320
+Epoch 26: val_auc improved from 0.81744 to 0.81799, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 497s 716ms/step - loss: 0.2500 - auc: 0.8320 - val_loss: 0.2251 - val_auc: 0.8180
+Epoch 27/100
+694/694 [==============================] - ETA: 0s - loss: 0.2488 - auc: 0.8335
+Epoch 27: val_auc improved from 0.81799 to 0.81958, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 489s 705ms/step - loss: 0.2488 - auc: 0.8335 - val_loss: 0.2240 - val_auc: 0.8196
+Epoch 28/100
+694/694 [==============================] - ETA: 0s - loss: 0.2495 - auc: 0.8311
+Epoch 28: val_auc did not improve from 0.81958
+694/694 [==============================] - 483s 696ms/step - loss: 0.2495 - auc: 0.8311 - val_loss: 0.2246 - val_auc: 0.8193
+Epoch 29/100
+694/694 [==============================] - ETA: 0s - loss: 0.2487 - auc: 0.8331
+Epoch 29: val_auc improved from 0.81958 to 0.82032, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 490s 706ms/step - loss: 0.2487 - auc: 0.8331 - val_loss: 0.2238 - val_auc: 0.8203
+Epoch 30/100
+694/694 [==============================] - ETA: 0s - loss: 0.2484 - auc: 0.8336
+Epoch 30: val_auc improved from 0.82032 to 0.82112, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 504s 726ms/step - loss: 0.2484 - auc: 0.8336 - val_loss: 0.2238 - val_auc: 0.8211
+Epoch 31/100
+694/694 [==============================] - ETA: 0s - loss: 0.2477 - auc: 0.8350
+Epoch 31: val_auc did not improve from 0.82112
+694/694 [==============================] - 479s 690ms/step - loss: 0.2477 - auc: 0.8350 - val_loss: 0.2234 - val_auc: 0.8206
+Epoch 32/100
+694/694 [==============================] - ETA: 0s - loss: 0.2470 - auc: 0.8361
+Epoch 32: val_auc improved from 0.82112 to 0.82120, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 475s 684ms/step - loss: 0.2470 - auc: 0.8361 - val_loss: 0.2231 - val_auc: 0.8212
+Epoch 33/100
+694/694 [==============================] - ETA: 0s - loss: 0.2474 - auc: 0.8346
+Epoch 33: val_auc improved from 0.82120 to 0.82218, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 484s 697ms/step - loss: 0.2474 - auc: 0.8346 - val_loss: 0.2226 - val_auc: 0.8222
+Epoch 34/100
+694/694 [==============================] - ETA: 0s - loss: 0.2458 - auc: 0.8375
+Epoch 34: val_auc improved from 0.82218 to 0.82267, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 489s 704ms/step - loss: 0.2458 - auc: 0.8375 - val_loss: 0.2222 - val_auc: 0.8227
+Epoch 35/100
+694/694 [==============================] - ETA: 0s - loss: 0.2452 - auc: 0.8407
+Epoch 35: val_auc improved from 0.82267 to 0.82320, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 487s 702ms/step - loss: 0.2452 - auc: 0.8407 - val_loss: 0.2219 - val_auc: 0.8232
+Epoch 36/100
+694/694 [==============================] - ETA: 0s - loss: 0.2457 - auc: 0.8381
+Epoch 36: val_auc improved from 0.82320 to 0.82345, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 477s 688ms/step - loss: 0.2457 - auc: 0.8381 - val_loss: 0.2227 - val_auc: 0.8235
+Epoch 37/100
+694/694 [==============================] - ETA: 0s - loss: 0.2452 - auc: 0.8385
+Epoch 37: val_auc improved from 0.82345 to 0.82424, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 477s 687ms/step - loss: 0.2452 - auc: 0.8385 - val_loss: 0.2225 - val_auc: 0.8242
+Epoch 38/100
+694/694 [==============================] - ETA: 0s - loss: 0.2451 - auc: 0.8392
+Epoch 38: val_auc did not improve from 0.82424
+694/694 [==============================] - 470s 677ms/step - loss: 0.2451 - auc: 0.8392 - val_loss: 0.2221 - val_auc: 0.8239
+Epoch 39/100
+694/694 [==============================] - ETA: 0s - loss: 0.2437 - auc: 0.8436
+Epoch 39: val_auc improved from 0.82424 to 0.82449, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 472s 680ms/step - loss: 0.2437 - auc: 0.8436 - val_loss: 0.2219 - val_auc: 0.8245
+Epoch 40/100
+694/694 [==============================] - ETA: 0s - loss: 0.2449 - auc: 0.8395
+Epoch 40: val_auc improved from 0.82449 to 0.82475, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 472s 680ms/step - loss: 0.2449 - auc: 0.8395 - val_loss: 0.2211 - val_auc: 0.8248
+Epoch 41/100
+694/694 [==============================] - ETA: 0s - loss: 0.2456 - auc: 0.8388
+Epoch 41: val_auc improved from 0.82475 to 0.82501, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 472s 680ms/step - loss: 0.2456 - auc: 0.8388 - val_loss: 0.2214 - val_auc: 0.8250
+Epoch 42/100
+694/694 [==============================] - ETA: 0s - loss: 0.2437 - auc: 0.8424
+Epoch 42: val_auc improved from 0.82501 to 0.82537, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 473s 681ms/step - loss: 0.2437 - auc: 0.8424 - val_loss: 0.2209 - val_auc: 0.8254
+Epoch 43/100
+694/694 [==============================] - ETA: 0s - loss: 0.2429 - auc: 0.8437
+Epoch 43: val_auc did not improve from 0.82537
+694/694 [==============================] - 469s 676ms/step - loss: 0.2429 - auc: 0.8437 - val_loss: 0.2207 - val_auc: 0.8254
+Epoch 44/100
+694/694 [==============================] - ETA: 0s - loss: 0.2435 - auc: 0.8427
+Epoch 44: val_auc improved from 0.82537 to 0.82621, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 472s 680ms/step - loss: 0.2435 - auc: 0.8427 - val_loss: 0.2210 - val_auc: 0.8262
+Epoch 45/100
+694/694 [==============================] - ETA: 0s - loss: 0.2426 - auc: 0.8443
+Epoch 45: val_auc improved from 0.82621 to 0.82670, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 472s 680ms/step - loss: 0.2426 - auc: 0.8443 - val_loss: 0.2207 - val_auc: 0.8267
+Epoch 46/100
+694/694 [==============================] - ETA: 0s - loss: 0.2424 - auc: 0.8444
+Epoch 46: val_auc improved from 0.82670 to 0.82713, saving model to ../../_WEIGHTS/vit\Celeb-rnd-30-train_E100
+694/694 [==============================] - 472s 680ms/step - loss: 0.2424 - auc: 0.8444 - val_loss: 0.2208 - val_auc: 0.8271
+Epoch 47/100
+694/694 [==============================] - ETA: 0s - loss: 0.2425 - auc: 0.8444
+Epoch 47: val_auc did not improve from 0.82713
+694/694 [==============================] - 469s 676ms/step - loss: 0.2425 - auc: 0.8444 - val_loss: 0.2204 - val_auc: 0.8271
+Epoch 48/100
+442/694 [==================>...........] - ETA: 2:08 - loss: 0.2426 - auc: 0.8450
