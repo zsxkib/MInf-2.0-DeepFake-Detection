@@ -1,0 +1,2 @@
+model_checkpoint_path: "Celeb-rnd-30-train_E100"
+all_model_checkpoint_paths: "Celeb-rnd-30-train_E100"
