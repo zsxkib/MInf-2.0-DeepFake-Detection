@@ -64,3 +64,130 @@ Epoch 16: val_auc did not improve from 0.64781
 694/694 [==============================] - 1077s 2s/step - loss: 0.2777 - auc: 0.7699 - val_loss: 0.3265 - val_auc: 0.6478
 Epoch 17/100
 694/694 [==============================] - ETA: 0s - loss: 0.2783 - auc: 0.7691
+
+Epoch 1/84
+694/694 [==============================] - ETA: 0s - loss: 0.2811 - auc: 0.7586 
+Epoch 1: val_auc improved from -inf to 0.65395, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 22696s 33s/step - loss: 0.2811 - auc: 0.7586 - val_loss: 0.3315 - val_auc: 0.6539
+Epoch 2/84
+694/694 [==============================] - ETA: 0s - loss: 0.2791 - auc: 0.7658
+Epoch 2: val_auc improved from 0.65395 to 0.66424, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 636s 916ms/step - loss: 0.2791 - auc: 0.7658 - val_loss: 0.3232 - val_auc: 0.6642
+Epoch 3/84
+694/694 [==============================] - ETA: 0s - loss: 0.2737 - auc: 0.7770
+Epoch 3: val_auc improved from 0.66424 to 0.66852, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 604s 870ms/step - loss: 0.2737 - auc: 0.7770 - val_loss: 0.3251 - val_auc: 0.6685
+Epoch 4/84
+694/694 [==============================] - ETA: 0s - loss: 0.2734 - auc: 0.7776
+Epoch 4: val_auc improved from 0.66852 to 0.67591, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 604s 870ms/step - loss: 0.2734 - auc: 0.7776 - val_loss: 0.3291 - val_auc: 0.6759
+Epoch 5/84
+694/694 [==============================] - ETA: 0s - loss: 0.2729 - auc: 0.7787
+Epoch 5: val_auc did not improve from 0.67591
+694/694 [==============================] - 601s 866ms/step - loss: 0.2729 - auc: 0.7787 - val_loss: 0.3249 - val_auc: 0.6719
+Epoch 6/84
+694/694 [==============================] - ETA: 0s - loss: 0.2729 - auc: 0.7808
+Epoch 6: val_auc did not improve from 0.67591
+694/694 [==============================] - 600s 865ms/step - loss: 0.2729 - auc: 0.7808 - val_loss: 0.3239 - val_auc: 0.6731
+Epoch 7/84
+694/694 [==============================] - ETA: 0s - loss: 0.2732 - auc: 0.7792
+Epoch 7: val_auc improved from 0.67591 to 0.67723, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 603s 869ms/step - loss: 0.2732 - auc: 0.7792 - val_loss: 0.3226 - val_auc: 0.6772
+Epoch 8/84
+694/694 [==============================] - ETA: 0s - loss: 0.2747 - auc: 0.7759
+Epoch 8: val_auc improved from 0.67723 to 0.68203, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 605s 872ms/step - loss: 0.2747 - auc: 0.7759 - val_loss: 0.3233 - val_auc: 0.6820
+Epoch 9/84
+694/694 [==============================] - ETA: 0s - loss: 0.2720 - auc: 0.7822
+Epoch 9: val_auc did not improve from 0.68203
+694/694 [==============================] - 603s 868ms/step - loss: 0.2720 - auc: 0.7822 - val_loss: 0.3377 - val_auc: 0.6728
+Epoch 10/84
+694/694 [==============================] - ETA: 0s - loss: 0.2736 - auc: 0.7803
+Epoch 10: val_auc did not improve from 0.68203
+694/694 [==============================] - 603s 869ms/step - loss: 0.2736 - auc: 0.7803 - val_loss: 0.3610 - val_auc: 0.6754
+Epoch 11/84
+694/694 [==============================] - ETA: 0s - loss: 0.2735 - auc: 0.7790
+Epoch 11: val_auc did not improve from 0.68203
+694/694 [==============================] - 601s 866ms/step - loss: 0.2735 - auc: 0.7790 - val_loss: 0.3357 - val_auc: 0.6703
+Epoch 12/84
+694/694 [==============================] - ETA: 0s - loss: 0.2747 - auc: 0.7784
+Epoch 12: val_auc improved from 0.68203 to 0.68647, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 603s 868ms/step - loss: 0.2747 - auc: 0.7784 - val_loss: 0.3336 - val_auc: 0.6865
+Epoch 13/84
+694/694 [==============================] - ETA: 0s - loss: 0.2743 - auc: 0.7777
+Epoch 13: val_auc did not improve from 0.68647
+694/694 [==============================] - 600s 865ms/step - loss: 0.2743 - auc: 0.7777 - val_loss: 0.3595 - val_auc: 0.6776
+Epoch 14/84
+694/694 [==============================] - ETA: 0s - loss: 0.2726 - auc: 0.7808
+Epoch 14: val_auc did not improve from 0.68647
+694/694 [==============================] - 600s 865ms/step - loss: 0.2726 - auc: 0.7808 - val_loss: 0.3444 - val_auc: 0.6850
+Epoch 15/84
+694/694 [==============================] - ETA: 0s - loss: 0.2740 - auc: 0.7807
+Epoch 15: val_auc did not improve from 0.68647
+694/694 [==============================] - 600s 865ms/step - loss: 0.2740 - auc: 0.7807 - val_loss: 0.3371 - val_auc: 0.6755
+Epoch 16/84
+694/694 [==============================] - ETA: 0s - loss: 0.2743 - auc: 0.7794
+Epoch 16: val_auc did not improve from 0.68647
+694/694 [==============================] - 600s 865ms/step - loss: 0.2743 - auc: 0.7794 - val_loss: 0.3585 - val_auc: 0.6770
+Epoch 17/84
+694/694 [==============================] - ETA: 0s - loss: 0.2729 - auc: 0.7824
+Epoch 17: val_auc did not improve from 0.68647
+694/694 [==============================] - 601s 865ms/step - loss: 0.2729 - auc: 0.7824 - val_loss: 0.3537 - val_auc: 0.6835
+Epoch 18/84
+694/694 [==============================] - ETA: 0s - loss: 0.2730 - auc: 0.7821
+Epoch 18: val_auc did not improve from 0.68647
+694/694 [==============================] - 600s 865ms/step - loss: 0.2730 - auc: 0.7821 - val_loss: 0.3602 - val_auc: 0.6864
+Epoch 19/84
+694/694 [==============================] - ETA: 0s - loss: 0.2741 - auc: 0.7803
+Epoch 19: val_auc did not improve from 0.68647
+694/694 [==============================] - 600s 865ms/step - loss: 0.2741 - auc: 0.7803 - val_loss: 0.3654 - val_auc: 0.6791
+Epoch 20/84
+694/694 [==============================] - ETA: 0s - loss: 0.2718 - auc: 0.7863
+Epoch 20: val_auc did not improve from 0.68647
+694/694 [==============================] - 600s 865ms/step - loss: 0.2718 - auc: 0.7863 - val_loss: 0.3279 - val_auc: 0.6786
+Epoch 21/84
+694/694 [==============================] - ETA: 0s - loss: 0.2723 - auc: 0.7833
+Epoch 21: val_auc improved from 0.68647 to 0.68799, saving model to ../../_WEIGHTS/vit/ViT_Celeb_avg_30_0224_1143
+694/694 [==============================] - 602s 867ms/step - loss: 0.2723 - auc: 0.7833 - val_loss: 0.3232 - val_auc: 0.6880
+Epoch 22/84
+694/694 [==============================] - ETA: 0s - loss: 0.2705 - auc: 0.7859
+Epoch 22: val_auc did not improve from 0.68799
+694/694 [==============================] - 600s 865ms/step - loss: 0.2705 - auc: 0.7859 - val_loss: 0.3349 - val_auc: 0.6809
+Epoch 23/84
+694/694 [==============================] - ETA: 0s - loss: 0.2714 - auc: 0.7867
+Epoch 23: val_auc did not improve from 0.68799
+694/694 [==============================] - 600s 865ms/step - loss: 0.2714 - auc: 0.7867 - val_loss: 0.3433 - val_auc: 0.6838
+Epoch 24/84
+694/694 [==============================] - ETA: 0s - loss: 0.2712 - auc: 0.7895
+Epoch 24: val_auc did not improve from 0.68799
+694/694 [==============================] - 600s 865ms/step - loss: 0.2712 - auc: 0.7895 - val_loss: 0.3313 - val_auc: 0.6764
+Epoch 25/84
+694/694 [==============================] - ETA: 0s - loss: 0.2719 - auc: 0.7847
+Epoch 25: val_auc did not improve from 0.68799
+694/694 [==============================] - 600s 865ms/step - loss: 0.2719 - auc: 0.7847 - val_loss: 0.3314 - val_auc: 0.6747
+Epoch 26/84
+694/694 [==============================] - ETA: 0s - loss: 0.2744 - auc: 0.7796
+Epoch 26: val_auc did not improve from 0.68799
+694/694 [==============================] - 600s 865ms/step - loss: 0.2744 - auc: 0.7796 - val_loss: 0.3316 - val_auc: 0.6762
+Epoch 27/84
+694/694 [==============================] - ETA: 0s - loss: 0.2735 - auc: 0.7809
+Epoch 27: val_auc did not improve from 0.68799
+694/694 [==============================] - 600s 865ms/step - loss: 0.2735 - auc: 0.7809 - val_loss: 0.3329 - val_auc: 0.6764
+Epoch 28/84
+694/694 [==============================] - ETA: 0s - loss: 0.2707 - auc: 0.7867
+Epoch 28: val_auc did not improve from 0.68799
+694/694 [==============================] - 601s 865ms/step - loss: 0.2707 - auc: 0.7867 - val_loss: 0.3387 - val_auc: 0.6784
+Epoch 29/84
+694/694 [==============================] - ETA: 0s - loss: 0.2722 - auc: 0.7831
+Epoch 29: val_auc did not improve from 0.68799
+694/694 [==============================] - 601s 865ms/step - loss: 0.2722 - auc: 0.7831 - val_loss: 0.3420 - val_auc: 0.6852
+Epoch 30/84
+694/694 [==============================] - ETA: 0s - loss: 0.2724 - auc: 0.7836
+Epoch 30: val_auc did not improve from 0.68799
+694/694 [==============================] - 601s 865ms/step - loss: 0.2724 - auc: 0.7836 - val_loss: 0.3489 - val_auc: 0.6780
+Epoch 31/84
+694/694 [==============================] - ETA: 0s - loss: 0.2742 - auc: 0.7800Restoring model weights from the end of the best epoch: 21.
+
+Epoch 31: val_auc did not improve from 0.68799
+694/694 [==============================] - 601s 866ms/step - loss: 0.2742 - auc: 0.7800 - val_loss: 0.3447 - val_auc: 0.6776
+Epoch 31: early stopping
