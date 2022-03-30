@@ -129,5 +129,5 @@ dmypy.json
 *.index
 *.data-00000-of-00001
 _WEIGHTS/mae/checkpoint
-*.pdf
+# *.pdf
 *.zip
